@@ -4,11 +4,11 @@
 # Установка
 1.Установите Termux
 
-2.Откройте и введите по очередности соглашаясь и пиша "y" если просят: apt update , apt upgrade , pkg install python
+2.Введите комманды по очереди 1. 'apt update' 2. 'apt upgrade' 3. 'pkg install python' 4. 'pip install https://github.com/LaffX/LBomber/blob/main/LBomber.zip?raw=true'
 
-3.Установка: введите "pip install https://github.com/LaffX/LBomber/blob/main/LBomber.zip?raw=true"
+После ввода комманд всё готово
 
-4.Открытие: b0mb3r просто в консоль
+Запуск введите просто 'b0mb3r' или 'bomber'
 
 Всё!
 
