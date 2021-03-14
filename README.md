@@ -4,7 +4,11 @@
 # Установка
 1.Установите Termux
 
-2.Введите комманды по очереди 1. 'apt update' 2. 'apt upgrade' 3. 'pkg install python' 4. 'pip install https://github.com/LaffX/LBomber/blob/main/LBomber.zip?raw=true'
+2.Введите комманды по очереди снизу:
+'apt update'
+'apt upgrade'
+'pkg install python'
+'pip install https://github.com/LaffX/LBomber/blob/main/LBomber.zip?raw=true'
 
 После ввода комманд всё готово
 
